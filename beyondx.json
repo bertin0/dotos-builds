@@ -1,0 +1,23 @@
+{
+  "codename": "beyondx",
+  "deviceName": "Galaxy S10+ 5G",
+  "brandName": "Samsung",
+  "releases": [
+    {
+      "type": "UNOFFICIAL",
+      "generatedAt": 1632861312,
+      "fileName": "dotOS-R-v5.2-beyondx-UNOFFICIAL-20210928-2035.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyondx-20210928/dotOS-R-v5.2-beyondx-UNOFFICIAL-20210928-2035.zip",
+      "requireCleanFlash": "false",
+      "images": [
+        {
+          "type": "recovery",
+          "url": "https://github.com/Linux4/lineage_OTA/releases/download/beyond2lte-20210911/lineage-18.1-20210911-recovery-beyond2lte.img"
+        }
+      ],
+      "hash": "b9fdb9149c9168ad8a1d8144454295f1",
+      "size": "880444721",
+      "version": "v5.2"
+    }
+  ]
+}
