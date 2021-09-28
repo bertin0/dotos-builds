@@ -1,0 +1,23 @@
+{
+  "codename": "beyond2lte",
+  "deviceName": "Galaxy S10+",
+  "brandName": "Samsung",
+  "releases": [
+    {
+      "type": "UNOFFICIAL",
+      "generatedAt": 1632764240,
+      "fileName": "dotOS-R-v5.2-beyond2lte-UNOFFICIAL-20210927-1738.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyond2lte-20210927/dotOS-R-v5.2-beyond2lte-UNOFFICIAL-20210927-1738.zip",
+      "requireCleanFlash": "false",
+      "images": [
+        {
+          "type": "recovery",
+          "url": "https://github.com/Linux4/lineage_OTA/releases/download/beyond2lte-20210911/lineage-18.1-20210911-recovery-beyond2lte.img"
+        }
+      ],
+      "hash": "56aa9a227d5bee04d91d6121b9777fce",
+      "size": "879289538",
+      "version": "v5.2"
+    }
+  ]
+}
