@@ -1,0 +1,24 @@
+{
+  "codename": "",
+  "deviceName": "",
+  "brandName": "",
+  "releases": [
+    {
+      "type": "",
+      "generatedAt": "",
+      "fileName": "",
+      "url": "",
+      "requireCleanFlash": "",
+      "images": [
+        {
+          "type": "recovery",
+          "url": "https://github.com/Linux4/lineage_OTA/releases/download/beyond2lte-20210911/lineage-18.1-20210911-recovery-beyond2lte.img"
+        }
+      ],
+      "hash": "",
+      "size": "",
+      "version": ""
+    }
+  ]
+}
+

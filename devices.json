@@ -1,0 +1,18 @@
+{
+    "beyond0lte": {
+        "deviceName": "Galaxy S10E",
+        "brandName": "Samsung"
+    },
+    "beyond1lte": {
+        "deviceName": "Galaxy S10",
+        "brandName": "Samsung"
+    },
+    "beyond2lte": {
+        "deviceName": "Galaxy S10+",
+        "brandName": "Samsung"
+    },
+    "beyondx": {
+        "deviceName": "Galaxy S10+ 5G",
+        "brandName": "Samsung"
+    }
+}
