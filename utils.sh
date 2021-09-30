@@ -59,7 +59,7 @@ release () {
     git commit -m $RELEASENAME
     git tag $RELEASENAME
     git push
-    gh release create $RELEASENAME --notes "Latest build" $ZIPNAME
+    gh release create $RELEASENAME -F changelog.md $ZIPNAME
     
     cd ../
 }
