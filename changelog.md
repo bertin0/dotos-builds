@@ -1,0 +1,2 @@
+- Fixed blur
+- Fixed some selinux denials
