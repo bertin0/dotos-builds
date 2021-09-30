@@ -13,7 +13,7 @@ release () {
     ZIPNAME=$(ls $ZIPPATH/dotOS-*.zip | tail -n1 | xargs -n1 basename)
     HASH=$(cut -f1 -d ' ' $ZIPPATH/$ZIPNAME.md5sum)
 
-    cp $ZIPPATH/$ZIPNAME dotos-builds/
+    mv $ZIPPATH/$ZIPNAME dotos-builds/
     
     cd dotos-builds/
 
