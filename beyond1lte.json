@@ -5,9 +5,9 @@
   "releases": [
     {
       "type": "UNOFFICIAL",
-      "generatedAt": 1632823011,
-      "fileName": "dotOS-R-v5.2-beyond1lte-UNOFFICIAL-20210928-0959.zip",
-      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyond1lte-20210928/dotOS-R-v5.2-beyond1lte-UNOFFICIAL-20210928-0959.zip",
+      "generatedAt": 1633465316,
+      "fileName": "dotOS-R-v5.2-beyond1lte-UNOFFICIAL-20211005-2022.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyond1lte-20211005/dotOS-R-v5.2-beyond1lte-UNOFFICIAL-20211005-2022.zip",
       "requireCleanFlash": "false",
       "images": [
         {
@@ -15,8 +15,8 @@
           "url": "https://github.com/Linux4/lineage_OTA/releases/download/beyond2lte-20210911/lineage-18.1-20210911-recovery-beyond2lte.img"
         }
       ],
-      "hash": "3222a630b264e788bee38764a62dd1f9",
-      "size": "879220349",
+      "hash": "a44c70a0d05f6facfb7d6346bb6b7568",
+      "size": "879207366",
       "version": "v5.2"
     }
   ]
