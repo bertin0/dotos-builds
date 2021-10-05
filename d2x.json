@@ -1,0 +1,23 @@
+{
+  "codename": "d2x",
+  "deviceName": "",
+  "brandName": "",
+  "releases": [
+    {
+      "type": "UNOFFICIAL",
+      "generatedAt": 1633444226,
+      "fileName": "dotOS-R-v5.2-d2x-UNOFFICIAL-20211005-1430.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/d2x-20211005/dotOS-R-v5.2-d2x-UNOFFICIAL-20211005-1430.zip",
+      "requireCleanFlash": "false",
+      "images": [
+        {
+          "type": "recovery",
+          "url": "https://github.com/Linux4/lineage_OTA/releases/download/beyond2lte-20210911/lineage-18.1-20210911-recovery-beyond2lte.img"
+        }
+      ],
+      "hash": "cf0f66b2688649000ccb38af5a8668d3",
+      "size": "883201365",
+      "version": "v5.2"
+    }
+  ]
+}
