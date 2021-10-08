@@ -6,9 +6,13 @@ $EDITOR dotos-builds/changelog.md
 
 for codename in "$@"
 do
-    build $codename
-    if [ $? = 0 ]; then
-        echo "Built successfully"
-        release $codename
-    fi
+    for tries in {1..3}; do
+        build $codename
+        if [ $? = 0 ]; then
+            echo "Built successfully after $tries tries"
+            release $codename
+            break
+        fi
+        echo "Build failed... Trying again."
+    done
 done
