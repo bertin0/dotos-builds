@@ -5,13 +5,13 @@
   "releases": [
     {
       "type": "UNOFFICIAL",
-      "generatedAt": 1633766064,
-      "fileName": "dotOS-R-v5.2-beyond0lte-UNOFFICIAL-20211009-0754.zip",
-      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyond0lte-20211009/dotOS-R-v5.2-beyond0lte-UNOFFICIAL-20211009-0754.zip",
+      "generatedAt": 1637788233,
+      "fileName": "dotOS-R-v5.2.1-beyond0lte-UNOFFICIAL-20211124-2113.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyond0lte-20211124/dotOS-R-v5.2.1-beyond0lte-UNOFFICIAL-20211124-2113.zip",
       "requireCleanFlash": "false",
-      "hash": "af0c4135cdd4df6b471462c63bb9f06c",
-      "size": "757572306",
-      "version": "v5.2"
+      "hash": "73a7fb62a187ef1861b5cf0f6a8a29f5",
+      "size": "757775595",
+      "version": "v5.2.1"
     }
   ]
 }
