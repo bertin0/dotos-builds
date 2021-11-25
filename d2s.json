@@ -5,13 +5,13 @@
   "releases": [
     {
       "type": "UNOFFICIAL",
-      "generatedAt": 1633779629,
-      "fileName": "dotOS-R-v5.2-d2s-UNOFFICIAL-20211009-1140.zip",
-      "url": "https://github.com/bertin0/dotos-builds/releases/download/d2s-20211009/dotOS-R-v5.2-d2s-UNOFFICIAL-20211009-1140.zip",
+      "generatedAt": 1637831330,
+      "fileName": "dotOS-R-v5.2.1-d2s-UNOFFICIAL-20211125-0912.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/d2s-20211125/dotOS-R-v5.2.1-d2s-UNOFFICIAL-20211125-0912.zip",
       "requireCleanFlash": "false",
-      "hash": "83ae27bceeb2017b7429e0bd553ef261",
-      "size": "883708900",
-      "version": "v5.2"
+      "hash": "381e95425eeb1e747ca35ec953c309fe",
+      "size": "883502311",
+      "version": "v5.2.1"
     }
   ]
 }
