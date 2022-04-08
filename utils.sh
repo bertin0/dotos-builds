@@ -24,10 +24,10 @@ release () {
     SDK_LEVEL=$(echo "$METADATA" | grep post-sdk-level | cut -f2 -d '=')
     TIMESTAMP=$(echo "$METADATA" | grep post-timestamp | cut -f2 -d '=')
 
-    DATE=$(echo $ZIPNAME | cut -f6 -d '-')
+    DATE=$(echo $ZIPNAME | cut -f5 -d '-')
     SIZE=$(du -b $ZIPNAME | cut -f1 -d '	')
-    TYPE=$(echo $ZIPNAME | cut -f5 -d '-')
-    VERSION=$(echo $ZIPNAME | cut -f3 -d '-')
+    TYPE=$(echo $ZIPNAME | cut -f4 -d '-')
+    VERSION=$(echo $ZIPNAME | cut -f2 -d '-')
 
     RELEASENAME=${DEVICE}-${DATE}
     RELEASESTODAY=1
