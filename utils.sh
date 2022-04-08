@@ -56,6 +56,7 @@ release () {
         }" template.json > $DEVICE.json
 
     git add $DEVICE.json
+    git add changelog.md
     git commit -m $RELEASENAME
     git tag $RELEASENAME
     git push
