@@ -11,7 +11,7 @@ release () {
     CODENAME=$1
     ZIPPATH=out/target/product/$CODENAME
     ZIPNAME=$(ls $ZIPPATH/dotOS-*.zip | tail -n1 | xargs -n1 basename)
-    HASH=$(cut -f1 -d ' ' $ZIPPATH/$ZIPNAME.md5sum)
+    HASH=$(cut -f1 -d ' ' $ZIPPATH/$ZIPNAME.sha256sum)
 
     mv $ZIPPATH/$ZIPNAME dotos-builds/
     
