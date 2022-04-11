@@ -60,7 +60,7 @@ release () {
     git commit -m $RELEASENAME
     git tag $RELEASENAME
     git push
-    gh release create $RELEASENAME -F changelog.md $ZIPNAME
+    gh release create $RELEASENAME -F changelog.md $ZIPNAME --target main
     
     cd ../
 }
