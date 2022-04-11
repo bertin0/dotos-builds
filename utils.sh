@@ -4,7 +4,7 @@ build () {
     CODENAME=$1
     . build/envsetup.sh
     lunch dot_$CODENAME-userdebug
-    make -j20 bacon
+    make -j$(nproc --all) bacon
 }
 
 release () {
