@@ -55,6 +55,8 @@ release () {
             version: \"$VERSION\"
         }" template.json > $DEVICE.json
 
+    echo | gpg --clearsign
+
     git add $DEVICE.json
     git add changelog.md
     git commit -m $RELEASENAME
