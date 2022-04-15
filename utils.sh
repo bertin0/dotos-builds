@@ -4,6 +4,9 @@ build () {
     CODENAME=$1
     . build/envsetup.sh
     lunch dot_$CODENAME-userdebug
+    if [ "$CLEANBUILD" -eq "true" ]; then
+        m clean
+    fi
     make -j$(nproc --all) bacon
 }
 
