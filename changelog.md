@@ -1,4 +1,3 @@
-# DotOS 6.0 BETA build
+# DotOS 6.0 BETA 2 build
 
-- april security patch
-- NEEDS CLEAN FLASH IF COMING FROM ANDROID 11
+- fixed fingerprint icons
