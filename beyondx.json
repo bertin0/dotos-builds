@@ -6,8 +6,8 @@
     {
       "type": "UNOFFICIAL",
       "generatedAt": 1649702493,
-      "fileName": "dotOS-v6.0-beyondx-UNOFFICIAL-20220411-1843.zip",
-      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyondx-20220411/dotOS-v6.0-beyondx-UNOFFICIAL-20220411-1843.zip",
+      "fileName": "dotOS-v6.0-beyondx-UNOFFICIAL-20220415-1539.zip",
+      "url": "https://github.com/bertin0/dotos-builds/releases/download/beyondx-20220415/dotOS-v6.0-beyondx-UNOFFICIAL-20220415-1539.zip",
       "requireCleanFlash": "false",
       "images": [
         {
@@ -15,8 +15,8 @@
           "url": "https://github.com/Linux4/lineage_OTA/releases/download/beyond2lte-20210911/lineage-18.1-20210911-recovery-beyond2lte.img"
         }
       ],
-      "hash": "6a1e8061185a777e973b9b8a2b3079335629852baa0cd63d014a31c41a35e493",
-      "size": "971781538",
+      "hash": "4bffbe136ed11da4c051bd29fcab0eae0ad2ed7d9a153b1d8b02fb1176ec0247",
+      "size": "828683908",
       "version": "v6.0"
     }
   ]
